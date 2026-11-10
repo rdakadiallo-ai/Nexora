@@ -1,2 +1,2 @@
 # Nexora
-Tu dois créer un SaaS B2B de gestion et d'automatisation des tâches professionnelles, destiné principalement aux freelances, entrepreneurs et petites entreprises. La plateforme devra centraliser plusieurs opérations quotidiennes, automatiser les tâches répétitives, faciliter le suivi des clients.
+Nexora is an all-in-one business management platform designed to help freelancers, entrepreneurs, and small businesses manage clients, invoices, projects, tasks, and finances in one place. Simple, smart, and accessible in French and English.
